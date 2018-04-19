@@ -1,3 +1,15 @@
+## Forked version info
+
+forked from [https://github.com/websemantics/markdown-browser](https://github.com/websemantics/markdown-browser).
+
+Additions/enhancements:
+
+- Dark theme
+- Various aesthetical tunings
+- Name-flexible (index.php name not mandatory)
+
+---
+
 ```
  ─────    ╭──┬──╮ ╭──╮ ┬──╮ ┬ ╭─ ╭┬─╮ ╭──╮ ┬   ┬ ╭─╮ ╭   ╭──╮  ┬──╮ ╭──╮ ┬   ┬ ╭──╮ ╭──╮ ┬──╮    ─────
    ────   │  │  │ ├──┤ ├─┬╯ ├─┴╮  │ │ │  │ │ │ │ │ │ │   ├──┴╮ ├─┬╯ │  │ │ │ │ ╰──╮ ├─┤  ├─┬╯   ────
